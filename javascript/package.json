@@ -1,0 +1,19 @@
+{
+  "name": "codewars-challenges-javascript",
+  "version": "1.0.0",
+  "description": "Code Wars Javascript Challenges Solutions",
+  "main": "index.js",
+  "scripts": {
+    "test": "jasmine-node **/test/* --autotest --watch **/* --color --verbose --growl"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pauloantiquera/codewars-challenges.git"
+  },
+  "author": "Paulo Antiquera",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pauloantiquera/codewars-challenges/issues"
+  },
+  "homepage": "https://github.com/pauloantiquera/codewars-challenges#readme"
+}
